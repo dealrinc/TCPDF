@@ -1505,7 +1505,7 @@ class TCPDF {
 	 * @protected
 	 * @since 5.3.002 (2010-06-07)
 	 */
-	protected $font_subsetting = true;
+	protected $font_subsetting = false;
 
 	/**
 	 * Array of default graphic settings.
